@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Contact App</string>
+    <string name="my_contact_category">My Contact Category</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="hint_name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save_text">Save</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="full_name">Full Name</string>
+    <string name="login">Login</string>
+</resources>
